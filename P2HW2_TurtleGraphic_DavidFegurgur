@@ -1,0 +1,8 @@
+# I am making a SHape in python
+# 18 Sep 2019
+# CTI-110 P2HW2 - Turtle Graphic
+# David Fegurgur
+
+import turtle
+turtle.showturtle ()
+
